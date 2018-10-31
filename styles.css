@@ -50,3 +50,35 @@ a.link {
   color: initial;
   text-decoration: underline;
 }
+
+.box {
+  padding: 1em;
+  border-radius: 1em;
+  background-color: lightgray;
+}
+
+.box-small {
+  font-size: 12px;
+}
+
+.box-large {
+  font-size: 18px;
+}
+
+body {
+  font-size: 16px;
+}
+
+.slogan {
+  font-size: 1.2em;
+  padding: 1.2em;
+  background-color: #ccc;
+}
+
+:root {
+  font-size: 1em;
+}
+
+ul {
+  font-size: 0.8rem;
+}
