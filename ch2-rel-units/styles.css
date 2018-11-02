@@ -1,4 +1,4 @@
-:root {
+/* :root {
   font-size: 0.75em;
 }
 
@@ -12,6 +12,15 @@
   :root {
     font-size: 1em;
   }
+}
+ */
+
+body {
+	line-height: 1.2;
+}
+
+.about-us {
+	font-size: 2em;
 }
 
 .panel {
